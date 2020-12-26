@@ -1,0 +1,5 @@
+@:a,b,c:L={wcw^r|w pertenece {a,b}*}
+q0:a,q0,@,X:c,q1,@,@:b,q0,@,Y
+q1:a,q1,X,@:b,q1,Y,@:@,q2,Z,Z
+Inicio:q0
+Final:q2

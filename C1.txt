@@ -1,7 +1,5 @@
-@:a,b,.,L={w|a^b^n}
-q0:a,q0,@,X
-q0:b,q1,X,@
-q1:b,q1,X,@
-q1:@,q2,Z,@
+@:a,b:L={w|a^nb^n}
+q0:a,q0,@,X:b,q1,X,@
+q1:b,q1,X,@:@,q2,Z,@
 Inicio:q0
 Final:q2

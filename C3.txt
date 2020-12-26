@@ -1,0 +1,6 @@
+@:x,y,z:L={x^ny^mz^p|n+m=p}
+q0:x,q0,@,X:y,q1,@,X
+q1:y,q1,@,X:z,q2,X,@
+q2:z,q2,X,@:@,q3,Z,@
+Inicio:q0
+Final:q3
